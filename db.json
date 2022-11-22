@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan José",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "El cliente quiere una página web",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Jonathan Díaz",
+      "empresa": "Zeus web",
+      "email": "jonathandiazes@gmail.com",
+      "telefono": "7293606532",
+      "notas": "El cliente quiere una E-comerce",
+      "id": 8
+    },
+    {
+      "nombre": "Jefferson Vera",
+      "empresa": "Zeus web",
+      "email": "correo@correo.com",
+      "telefono": "7293606532",
+      "notas": "EL cliente quiere un blog",
+      "id": 9
+    }
+  ]
+}
